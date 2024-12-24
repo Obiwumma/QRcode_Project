@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(220, 220, 241);
+}
+img{
+  height: inherit;
+  width: inherit;
+}
+.writeup{
+  width: 200px;
+  height: 200px;
+}
+.attribute{
+  display: flex;
+  margin-top: auto;
+  bottom: 0;
+  opacity: 0;
+}
